@@ -1,0 +1,10 @@
+# KiCad
+# Lock files (created while a project is open)
+*.lck
+
+# Auto-generated backups / caches
+*-backups/
+fp-info-cache
+
+# KiCad "Local History" snapshots (contains its own embedded git repo)
+.history/
